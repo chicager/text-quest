@@ -1,0 +1,55 @@
+1. The game begins in the Main Hall. Take the objects a flashlight and a hammer, use the commands:
+    take flashlight
+    take hammer
+
+2. Next go to the Storeroom, use the command:
+    go right
+
+3. Take the masterkeys in the Storeroom:
+    take masterkeys
+
+4. Go from the Storeroom to the Big Room, use the commands:
+    go back
+    go left
+
+5. Use the masterkeys on the chest, you will get a key in your inventory:
+    use masterkeys on chest
+
+6. Use the hammer on the vase, the paper (with the inscription "10011010100")
+   will be added to your inventory:
+    use hammer on vase
+
+7. Go from the Big Room to the Room №2, since you now have the key, it will open.
+   Use the commands:
+    go back
+    go straight
+
+8. Take the rope:
+    take rope
+
+9. Use the safe, for this you will need to enter the password. The password is written on the paper,
+   but there it is written in binary form, conversion into decimal form gives the password 1236.
+   After that you will have the enemy intelligence added to your inventory.
+   Use the commands:
+    use safe
+    1236
+
+10. Shine the flashlight on the wall and there will be the inscription:
+    "This is the answer to the Ultimate Question of Life...". This is a reference to the book
+    "The Hitchhiker’s Guide to the Galaxy" by D. Adams, the answer to this question is the number 42.
+    Use the commands:
+     use flashlight on wall
+
+11. Go to the Storeroom from the Room №2, use the commands:
+     go back
+     go right
+
+12. Use radiotransmitter to send the enemy intelligence. The radiotransmitter will require a password, enter 42:
+     use radiotransmitter
+     42
+
+13. Go to the Main Hall:
+     go back.
+
+14. Use the rope on the window to leave the house and complete the game:
+     use rope on window
