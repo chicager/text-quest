@@ -1,6 +1,6 @@
 # The Secret Agent (Text Quest)
 
-<img src="screen.png" alt="screenshot"/><br/>
+<img src="logo.jpg" alt="logo"/><br/>
 
 ------------
 ### Storyline:

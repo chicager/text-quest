@@ -1,6 +1,6 @@
 # Секретный Агент (Текстовый квест)
 
-<img src="screen.png" alt="screenshot"/><br/>
+<img src="logo.jpg" alt="logo"/><br/>
 
 ------------
 ### Сюжет Игры:
